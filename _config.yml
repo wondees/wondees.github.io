@@ -11,7 +11,7 @@ title-normal: Fine Thai Home Style Cuisine
 email: wondees.201@gmail.com
 description: A Thai restaurant in the Heart of Hacksack, NJ; <br />with a home cooked feel.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://wondees.gitlab.io" # the base hostname & protocol for your site
+url: "https://wondees.github.io" # the base hostname & protocol for your site
 author: 
 street_address: 296 Main St
 city: Hacksack
